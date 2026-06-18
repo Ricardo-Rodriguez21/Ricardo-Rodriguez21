@@ -1,174 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%7C%20Aspiring%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Ali Parto
+### Computer Science Student · Seeking First Opportunity
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervin-parto-08bb75241)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ricardo-Rodriguez21&color=6366f1&style=flat&label=Profile+Views)](https://github.com/Ricardo-Rodriguez21)
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-### 👋 درباره من | About Me
+I'm a Computer Science student based in Iran, at the beginning of my development journey. I'm motivated, curious, and actively building the skills needed to contribute to real-world projects.
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**فارسی 🇮🇷**
-
-سلام! من علی هستم، یه دانشجو کنجکاو که داره دنیای فناوری رو کشف می‌کنه. همیشه دنبال یادگیری چیزهای جدید، ساختن پروژه‌های باحال و پیدا کردن اولین تجربه شغلیم هستم.
-
-- 🎓 دانشجو
-- 🌱 در حال یادگیری و رشد
-- 💡 علاقه‌مند به حل مسئله
-- 🚀 آماده برای اولین تجربه حرفه‌ای
-
-</td>
-<td width="50%">
-
-**English 🌍**
-
-Hi! I'm Ali, a curious student exploring the world of technology. Always looking to learn new things, build cool projects, and land my first professional experience.
-
-- 🎓 Student
-- 🌱 Always learning & growing
-- 💡 Passionate about problem-solving
-- 🚀 Ready for my first professional role
-
-</td>
-</tr>
-</table>
+- 🎓 Studying Computer Science
+- 🌱 Currently learning programming fundamentals and tools
+- 🎯 Goal: Land my first internship or junior developer role
+- 💬 Open to collaboration, feedback, and mentorship
 
 ---
 
+## Skills & Tools
+
+I'm actively learning and practicing the following:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+> I'm focusing on depth over breadth — learning properly rather than collecting badges.
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-### 🛠️ مهارت‌ها | Skills
-
-> **💡 نکته:** این بخش رو با مهارت‌های واقعیت آپدیت کن!
-
-</div>
-
-<div align="center">
-
-**Languages & Tools I'm Learning:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Rodriguez21&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Rodriguez21&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## What I'm Working On
 
-### 📊 آمار گیت‌هاب | GitHub Stats
+- 📚 Strengthening my programming foundations
+- 🔨 Building small projects to apply what I learn
+- 📖 Exploring areas of software development to find my focus
 
-</div>
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
+## Let's Connect
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
+I'm always happy to connect with developers, recruiters, or anyone willing to share advice.
+
+**LinkedIn:** [Ali Parto](https://www.linkedin.com/in/shervin-parto-08bb75241)
 
 ---
 
 <div align="center">
-
-### 🚀 پروژه‌های برجسته | Featured Projects
-
-</div>
-
-> **💡 نکته:** اینجا پروژه‌هایی که باهاشون مفتخری رو معرفی کن!
-
-<div align="center">
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">📌 پروژه اول | Project One</h3>
-<div align="center">
-<a href="https://github.com/YOUR_USERNAME/project-one">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=tokyonight&hide_border=true" />
-</a>
-<br><br>
-<p>توضیح کوتاه پروژه به فارسی | Short description in English</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">📌 پروژه دوم | Project Two</h3>
-<div align="center">
-<a href="https://github.com/YOUR_USERNAME/project-two">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=tokyonight&hide_border=true" />
-</a>
-<br><br>
-<p>توضیح کوتاه پروژه به فارسی | Short description in English</p>
-</div>
-</td>
-
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
-### 🏆 دستاوردها | Achievements
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-<div align="center">
-
-### 📈 نمودار فعالیت | Activity Graph
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-### 🌐 ارتباط با من | Connect With Me
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shervin-parto-08bb75241)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sherrvin2004@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ricardo_XXI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ali_parto2004)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<sub>This profile is a work in progress — just like me.</sub>
 </div>
